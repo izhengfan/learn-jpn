@@ -2,7 +2,8 @@
 
 一个面向「学过五十音、但还没真正开口」的中文母语者的日语学习 Web 应用。把 N4 拆成 12 周、18 节互动课，并用单词 SRS、语法手册、假名/汉字训练、阅读、听力与模拟测验形成学习闭环。
 
-**在线访问：https://izhengfan.github.io/learn-jpn/**
+**在线访问：https://fzheng.me/learn-jpn/**  
+GitHub Pages 原始地址 `https://izhengfan.github.io/learn-jpn/` 会跳转到该域名。
 
 ## 启动
 
@@ -26,7 +27,7 @@ npm run preview
 
 - 仓库 Pages Source 使用 **GitHub Actions**
 - 构建时自动使用仓库名作为 Vite `base`，本地开发仍使用根路径
-- 线上地址：`https://izhengfan.github.io/learn-jpn/`
+- 线上地址：`https://fzheng.me/learn-jpn/`（GitHub 原始域名会自动跳转）
 
 ## 功能
 
